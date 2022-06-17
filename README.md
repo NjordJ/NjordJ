@@ -8,3 +8,5 @@
     <li>🌱 I’m currently learning Flutter</li>
   </ul>
 </div>
+
+![](https://komarev.com/ghpvc/?username=NjordJ&color=blueviolet&style=flat-square)
