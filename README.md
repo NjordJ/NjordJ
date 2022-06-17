@@ -9,9 +9,10 @@
   </ul>
 </div>
 
-<div style = "position: relative;">
+<!-- <div style = "position: relative;">
   <div style = "position: absolute; bottom: 0; right: 0;">
       ![](https://komarev.com/ghpvc/?username=NjordJ&color=blueviolet&style=flat-square)
   </div>
-</div>
+</div> -->
 
+![](https://komarev.com/ghpvc/?username=NjordJ&color=blueviolet&style=flat-square)
