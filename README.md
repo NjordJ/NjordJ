@@ -9,10 +9,6 @@
   </ul>
 </div>
 
-<!-- <div style = "position: relative;">
-  <div style = "position: absolute; bottom: 0; right: 0;">
-      ![](https://komarev.com/ghpvc/?username=NjordJ&color=blueviolet&style=flat-square)
-  </div>
-</div> -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=njordjwa&show_icons=true&theme=cobalt)
 
-![](https://komarev.com/ghpvc/?username=NjordJ&color=blueviolet&style=flat-square)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=njordj&langs_count=8&show_icons=true&theme=cobalt&hide=Makefile,Ren'Py,LLVM&layout=compact)](https://github.com/suichanwa/github-readme-stats)
