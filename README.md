@@ -4,7 +4,6 @@
 
 <div>
   <ul>
-    <li>🔭 I’m currently working on pet projects</li>
     <li>🌱 I’m currently learning mobile development</li>
   </ul>
 </div>
