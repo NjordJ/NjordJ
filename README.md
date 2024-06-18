@@ -1,10 +1,3 @@
-<h2 align = "center">Hi there 👋</h2>
-
-<div>
-  <ul>
-    <li>🌱 I’m currently learning mobile development</li>
-  </ul>
-</div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=njordj&show_icons=true&theme=cobalt)
 
